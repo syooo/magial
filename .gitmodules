@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/git_deploy"]
+	path = sites/all/modules/git_deploy
+	url = git://git.drupal.org/project/git_deploy.git
