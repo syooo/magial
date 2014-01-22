@@ -15,7 +15,7 @@
 	url = git://git.drupal.org/project/jquery_update.git
 [submodule "sites/all/themes/magic"]
 	path = sites/all/themes/magic
-	url = https://github.com/syooo/magic.git
+	url = git@github.com:syooo/magic.git
 [submodule "sites/all/modules/mage"]
 	path = sites/all/modules/mage
-	url = https://github.com/syooo/mage.git
+	url = git@github.com:syooo/mage.git
